@@ -11,7 +11,7 @@ class SplashPage extends StatefulWidget {
 
 class _SplashPageState extends State<SplashPage> {
   startTimeout() {
-    Future.delayed(Duration(seconds: 3), () {
+    Future.delayed(Duration(seconds: 5), () {
       Navigator.pushReplacementNamed(context, AppConstant.pageHome);
     });
   }

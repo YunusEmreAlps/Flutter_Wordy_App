@@ -18,6 +18,7 @@ class _MyAppState extends State<MyApp> {
     SystemChrome.setSystemUIOverlayStyle(
       SystemUiOverlayStyle(statusBarColor: Colors.transparent),
     );
+    // Portrait Mode
     SystemChrome.setPreferredOrientations([
       DeviceOrientation.portraitUp,
       DeviceOrientation.portraitDown,

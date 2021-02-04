@@ -1,16 +1,45 @@
 # wordy_app
 
-A new Flutter application.
+A simple dictionary app in flutter explaining the concept and usage of Streams and StreamBuilder
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+- flutter_svg
+- convex_bottom_bar
+- simple_animations
+- url_launcher
+- http
+- sqflite
+- path_provider
+- flutter_tts
+- google_fonts
+- regexed_validator
+- share
+- flutter_local_notifications
+- animated_text_kit
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Video Preview of Final UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/wordy.gif)
+
+## Screens it contains:
+
+=> Splash Screen
+
+=> Home Page
+
+=> Saved Words Screen
+
+=> Dictionary Screen
+
+
+## Photos
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/1.jpg)
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/2.jpg)
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/3.jpg)
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/4.jpg)
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/5.jpg)
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/6.jpg)
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/7.jpg)
+![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/8.jpg)

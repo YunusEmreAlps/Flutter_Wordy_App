@@ -27,7 +27,7 @@ class _SearchPageState extends State<SearchPage> {
               ),
               Vowels(),
               HistoryBodyList(
-                historyWord: 'kalem',
+                historyWord: 'Eagle',
               )
             ],
           )
