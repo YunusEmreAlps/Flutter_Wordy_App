@@ -21,7 +21,7 @@ A simple dictionary app in flutter explaining the concept and usage of Streams a
 
 ### Video Preview of Final UI
 
-<img src="https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/wordy.gif" width="250" height="250"/>
+<img src="https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/wordy.gif"/>
 
 ## Screens it contains:
 
