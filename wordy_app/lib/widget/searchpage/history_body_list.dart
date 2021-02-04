@@ -14,7 +14,7 @@ class HistoryBodyList extends StatelessWidget {
         Container(
           padding: const EdgeInsets.only(top: 24, right: 242, bottom: 12, left: 24),
           child: Text(
-            'SON ARAMALAR',
+            'your recent searches'.toUpperCase(),
             style: Theme.of(context).textTheme.body2.copyWith(color: AppConstant.colorParagraph2),
           ),
         ),

@@ -1,6 +1,6 @@
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:wordy_app/page/home/history_page.dart';
+import 'package:wordy_app/page/home/dictionary_page.dart';
 import 'package:wordy_app/page/home/home_page.dart';
 import 'package:wordy_app/util/app_constant.dart';
 
@@ -14,7 +14,7 @@ class HomeNavigator extends StatefulWidget {
 class _HomeNavigatorState extends State<HomeNavigator> {
   int _currentPage = 1;
 
-  List<Widget> _pages = [HistoryPage(), HomePage(), SavedWordsPage()];
+  List<Widget> _pages = [DictionaryPage(), HomePage(), SavedWordsPage()];
   @override
   Widget build(BuildContext context) {
     return Scaffold(

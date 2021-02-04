@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:wordy_app/util/app_constant.dart';
 
 class Vowels extends StatelessWidget {
-  final List<String> vowels = ['ç', 'ğ', 'ı', 'ö', 'ş', 'ü', 'â', 'î', 'û'];
+  final List<String> vowels = ['q', 'w', 'r', 's', 'z', 'u', 'm', 'n', 'f'];
 
   @override
   Widget build(BuildContext context) {

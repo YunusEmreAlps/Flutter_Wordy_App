@@ -1,6 +1,6 @@
 # wordy_app
 
-A simple dictionary app in flutter explaining the concept and usage of Streams and StreamBuilder
+A simple dictionary app in flutter explaining the concept and usage of Streams and StreamBuilder. **SpeakWord is working**.
 
 **Packages we are using:**
 
@@ -35,7 +35,7 @@ A simple dictionary app in flutter explaining the concept and usage of Streams a
 
 
 ## Photos
-| Light Mode  | Dark Mode |
+| UI  | UI |
 | ------------- |:-------------:|
 | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/1.jpg) | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/2.jpg) |
 | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/3.jpg) | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/4.jpg) |

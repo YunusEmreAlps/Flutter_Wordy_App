@@ -22,7 +22,7 @@ class HistoryEmpty extends StatelessWidget {
               height: 28,
             ),
             Text(
-              'Aradığınız sözcük bulunamadı. ',
+              'NOT FOUND',
               style: TextStyle(fontSize: 14.0, color: AppConstant.colorBackButton, fontWeight: FontWeight.w600),
             )
           ],

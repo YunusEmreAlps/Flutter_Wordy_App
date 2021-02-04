@@ -7,12 +7,12 @@ import 'package:wordy_app/util/app_widget.dart';
 import 'package:wordy_app/page/word_detail_page.dart';
 import 'package:wordy_app/util/app_constant.dart';
 
-class HistoryPage extends StatefulWidget {
+class DictionaryPage extends StatefulWidget {
   @override
-  _HistoryPageState createState() => _HistoryPageState();
+  _DictionaryPageState createState() => _DictionaryPageState();
 }
 
-class _HistoryPageState extends State<HistoryPage> {
+class _DictionaryPageState extends State<DictionaryPage> {
   bool isKeyboardVisible;
   PageController _pageController = PageController(initialPage: 0);
   bool isEmpty = false;
