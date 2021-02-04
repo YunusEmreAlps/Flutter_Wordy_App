@@ -21,7 +21,7 @@ A simple dictionary app in flutter explaining the concept and usage of Streams a
 
 ### Video Preview of Final UI
 
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/wordy.gif)
+<img src="https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/wordy.gif" width="250" height="250"/>
 
 ## Screens it contains:
 
@@ -35,11 +35,10 @@ A simple dictionary app in flutter explaining the concept and usage of Streams a
 
 
 ## Photos
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/1.jpg)
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/2.jpg)
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/3.jpg)
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/4.jpg)
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/5.jpg)
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/6.jpg)
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/7.jpg)
-![Preview](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/8.jpg)
+| Light Mode  | Dark Mode |
+| ------------- |:-------------:|
+| ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/1.jpg) | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/2.jpg) |
+| ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/3.jpg) | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/4.jpg) |
+| ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/5.jpg) | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/6.jpg) |
+| ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/7.jpg) | ![alt text](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/8.jpg) |
+
