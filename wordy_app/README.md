@@ -151,7 +151,7 @@ Contact Part             |  Contact Part               | Contact Part           
 
 Saved Words Page              |  Dictionary Page               | Dictionary Page               |  Dictionary Part
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/9.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/10.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/11.jpg?raw=true)|![](https://github.com/YunusEmreAlps/Touch/blob/master/touch/assets/github/11.jpg?raw=true)|
+![](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/9.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/10.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/11.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Wordy_App/blob/master/wordy_app/ss/11.png?raw=true)|
 
 
 ## Video Preview of Final UI
