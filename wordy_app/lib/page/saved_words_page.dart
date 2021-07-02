@@ -90,7 +90,7 @@ class _SavedWordsPageState extends State<SavedWordsPage> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           Text(
-                            words[position].wordTitle,
+                            words[position].wordTitle[0].toUpperCase() + words[position].wordTitle.substring(1),
                             style: TextStyle(
                                 fontSize: 32, fontWeight: FontWeight.bold),
                           ),

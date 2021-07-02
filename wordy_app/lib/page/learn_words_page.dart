@@ -48,7 +48,7 @@ class _LearnWordsPageState extends State<LearnWordsPage> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: <Widget>[
                                 Text(
-                                  randomWordList[position].wordTitle,
+                                  randomWordList[position].wordTitle[0].toUpperCase() + randomWordList[position].wordTitle.substring(1),
                                   style: TextStyle(
                                       fontSize: 32,
                                       fontWeight: FontWeight.bold),

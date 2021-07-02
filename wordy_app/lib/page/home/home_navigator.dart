@@ -18,7 +18,7 @@ class _HomeNavigatorState extends State<HomeNavigator> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      resizeToAvoidBottomPadding: false, 
+      resizeToAvoidBottomInset: false, 
       bottomNavigationBar: ConvexAppBar(
         color: AppConstant.colorParagraph2,
         backgroundColor: Colors.white,
@@ -35,7 +35,7 @@ class _HomeNavigatorState extends State<HomeNavigator> {
         initialActiveIndex: _currentPage,
         style: TabStyle.fixedCircle,
         items: <TabItem>[
-          TabItem(icon: Icons.history, title: ''),
+          TabItem(icon: Icons.library_books, title: ''),
           TabItem(icon: Icons.search, title: ''),
           TabItem(icon: Icons.bookmark_border, title: ''),
         ],
